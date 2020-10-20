@@ -27,4 +27,6 @@
     left: 15px;
     font-size: 14px;
     transition: bottom .2s;
+	left: auto;
+    right: -6px!important;
 }
